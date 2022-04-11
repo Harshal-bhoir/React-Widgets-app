@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import axiosf from "axios";
 import axios from "axios";
 
 const Search = () => {
